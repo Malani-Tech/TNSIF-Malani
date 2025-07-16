@@ -1,1 +1,1 @@
-package com.tnsif.collection.comparable_comparator;
+package com.tnsif.collection.list;
